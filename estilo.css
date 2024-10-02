@@ -1,0 +1,33 @@
+body{
+    background-color: black;
+}
+button{
+    background-color: whitesmoke;
+}
+button:hover{
+    background-color: rgb(180, 180, 171);
+}
+.botoes{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+}
+h1{
+    color: white;
+}
+header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 150px;
+}
+.conteiner{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 300px;
+}
+button{
+    border-radius: 30%;
+}
